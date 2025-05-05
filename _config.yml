@@ -324,3 +324,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Google Adsense
+google_adsense: ca-pub-6385476261567836
